@@ -20,5 +20,3 @@ def birthday_summary():
         + f"and {age.days} day(s) old!")
     
     return summary
-
-print(birthday_summary())
