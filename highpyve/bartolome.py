@@ -8,5 +8,3 @@ def get_jokes():
         print("Okay, thanks!")
     else:
         print("Invalid input. Please enter 'Y' or 'N'.")
-
-get_jokes()
