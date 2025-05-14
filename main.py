@@ -1,7 +1,6 @@
-from highpyve import tolentino, ocariza
+from highpyve import tolentino, ocariza, anipan
 
 # Import member's module
-# TODO (ANIPAN): Import module
 # TODO (BARTOLOME): Import module
 # TODO (BAYOS): Import module
 
@@ -10,7 +9,8 @@ from highpyve import tolentino, ocariza
 tolentino.get_cat_name("Rose")
 print()
 print(ocariza.birthday_summary())
-# TODO (ANIPAN): Call main function
+print()
+anipan.create_fake_profile()
 # TODO (BARTOLOME): Call main function
 # TODO (BAYOS): Call main function
 

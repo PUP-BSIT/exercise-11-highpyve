@@ -3,7 +3,7 @@ from faker import Faker
 fake = Faker()
 
 def create_fake_profile():
-    print("\nName: ", fake.name())
+    print("Name: ", fake.name())
     print("Email: ", fake.email())
     print("Address: ", fake.address())
     print("Phone Number: ", fake.phone_number())
