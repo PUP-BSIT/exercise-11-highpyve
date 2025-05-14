@@ -1,8 +1,8 @@
-from highpyve import tolentino, ocariza, anipan
+from highpyve import tolentino, ocariza, anipan, bayos
 
 # Import member's module
 # TODO (BARTOLOME): Import module
-# TODO (BAYOS): Import module
+
 
 
 # Add function calls
@@ -12,6 +12,7 @@ print(ocariza.birthday_summary())
 print()
 anipan.create_fake_profile()
 # TODO (BARTOLOME): Call main function
-# TODO (BAYOS): Call main function
+print()
+bayos.create_fake_animal_profile()
 
 
